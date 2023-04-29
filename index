@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task1</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <img src="https://sdlms.deepthought.education/assets/uploads/files/system/site-logo.svg" class="logo">
+            <ul>
+                <li>
+                    <div class="home-icon"><img
+                            src="https://img.icons8.com/external-gradak-royyan-wijaya/24/null/external-drop-down-gradak-interface-gradak-royyan-wijaya-2.png" /></i>
+                    </div>
+
+                </li>
+                <li>
+                    <div class="home-icon"><img
+                            src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/null/external-bell-basic-ui-elements-flatart-icons-outline-flatarticons.png" /></i>
+                    </div>
+                </li>
+                <li>
+                    <div class="home-icon"><img
+                            src="https://img.icons8.com/external-yogi-aprelliyanto-detailed-outline-yogi-aprelliyanto/64/null/external-setting-digital-service-yogi-aprelliyanto-detailed-outline-yogi-aprelliyanto.png" />
+                        <i class="fa fa-home"></i>
+                    </div>
+                </li>
+                <li>
+                    <div class="home-icon"><img
+                            src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/24/null/external-binocular-camping-tanah-basah-basic-outline-tanah-basah.png" />
+                        <i class="fa fa-home"></i>
+                    </div>
+                </li>
+                <li>
+                    <div class="home-icon"><img src="https://img.icons8.com/ios/50/000000/home-page.png" />
+                        <i class="fa fa-home"></i>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+
+    </header>
+    <div class="div1">
+        <h1>Technical Project Management</h1>
+        <input type="button" value="Submit">
+    </div>
+    <div class="div2">
+        <div class="div3">
+            Explore the world of management
+        </div>
+        <div style="font-size:small;">As a project manager, you play an important role in leading a project through
+            initiation, planning, execution, monitoring, controlling and completion. How? Do you want to manage each and
+            every step of your life?
+
+        </div>
+
+    </div>
+
+    <div class="div4">
+        <div><img src="imag/Untitled.png" height="104%" width="100%"></div>
+        <div class="d5">
+            <h1>
+                Threadbuild
+            </h1>
+            <p>
+                <b>
+                    Description :
+                </b>Watch the video and Threadbuild,and jot out key threads while watching the video
+            </p>
+            <details>
+
+                <summary>
+                    Thread A
+                </summary>
+                <div class="d8">
+                    <div class="d8a">
+                        <h4>Sub thread 1</h4>
+                        <input type="text" placeholder="Enter text here">
+                    </div>
+                    <div class="d8a">
+                        <h4>Sub interpretation</h4>
+                        <input type="text" placeholder="Enter text here">
+                    </div>
+                </div><br><br><br>
+                <ul>
+                    <li><img src="https://sdlms.deepthought.education/assets/uploads/files/files/selected-eureka-moment.svg"
+                            onclick="changeFilter(this)"></li>
+                    <li><img src="https://sdlms.deepthought.education/assets/uploads/files/files/selected-answer.svg"
+                            onclick="changeFilter(this)"></li>
+                    <li><img src="https://sdlms.deepthought.education/assets/uploads/files/files/selected-question.svg"
+                            onclick="changeFilter(this)"></li>
+                    <li><img src="https://sdlms.deepthought.education/assets/uploads/files/files/selected-root-of-thought.svg"
+                            onclick="changeFilter(this)"></li>
+                    <li class="d8b"><select id="select-option">
+                            <option value="select Catagory">select Catagory</option>
+                            <option value="Remark">Remarks</option>
+                            <option value="Sub-argument">Sub-argument</option>
+                            <option value="Sub-explanation">Sub-explanation</option>
+                            <option value="Core-principle">Core-principle</option>
+                        </select>
+                    </li>
+                    <li class="d8b"><select id="select Process">
+                            <option value="select Process"> select Process</option>
+                            <option value="Question">Question</option>
+                            <option value="Analogy"> Analogy</option>
+                            <option value="Sarcasm"> Sarcasm</option>
+                            <option value="Insight">Insight</option>
+                            <option value="Counter-Example">Counter-Example</option>
+                        </select>
+                    </li>
+
+                </ul>
+            </details>
+            <div class="d8a d8c">
+                <h4>Summary for Thread A</h4>
+                <input type="text" placeholder="Enter text here">
+            </div>
+        </div>
+        <div class="d6">
+            <h1>
+                Structure your Pointers
+            </h1>
+            <p>
+                <b>
+                    Description :
+                </b>
+                Write a 300 - 400 word article from your thread. Publish your understanding and showcase your
+                undwrstanding to the entire world
+            </p>
+            <div class="d9">
+                <h5>Title</h5>
+                <input type="text">
+                <h5>Content</h5>
+                <div class="d9a">
+                    <div>File</div>
+                    <div>Edit</div>
+                    <div>View</div>
+                    <div>Insert</div>
+                    <div>Format</div>
+                    <div>Tool</div>
+                    <div>Table</div>
+                    <div>Help</div>
+                    <div><img src="https://cdn.onlinewebfonts.com/svg/img_72534.png" height="17x" width="20px"></div>
+                    <div><img
+                            src="https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-45-512.png"
+                            height="20px" width="28px">
+                    </div>
+                    <img src="https://th.bing.com/th/id/OIP.pWtbhhT7xEKGoG-Iq3yn1QHaHa?pid=ImgDet&w=512&h=512&rs=1"
+                        height="22px" width="22px">
+
+                    <div><select>
+                            <option value="Paragraph">Paragraph</option>
+                            <option value="Heading6">Heading6</option>
+                            <option value="Heading5">Heading5</option>
+                            <option value="Heading4">Heading4</option>
+                            <option value="Heading3">Heading3</option>
+                            <option value="Heading2">Heading2</option>
+                            <option value="Heading1">Heading1</option>
+                        </select>
+                    </div>
+                </div>
+                <input type="text" class="d9b">
+            </div>
+        </div>
+        <div class="d7">
+            <h1>
+                4SA Method
+            </h1>
+            <p>
+                <b>
+                    Description :
+                </b>
+                To Explore more read more
+            </p>
+            <div class="d10">
+
+                <details>
+                    <summary>
+                        Introduction
+                    </summary>
+                    <p>The 4SA Method, How to bring a idea into process?
+
+                    </p>
+                </details>
+                <details>
+                    <summary>Thread A
+
+                    </summary>
+                    <p>How are you going to develop your strategy? Which method are you going to use to develop a
+                        strategy?What if the project is lengthy?
+                    <h3>Example 1</h3>
+                    <p>You have a concept; how will you put it into practice to create a product? How will you organize
+                        the
+                        final product? Can the product's MVP be created in a we</p>
+
+
+                    </p>
+                </details>
+                <details>
+                    <summary>Transition 1
+
+                    </summary>
+                    <p>For preparing the strategy from the concept and build it into product one of the methods used is
+                        the
+                        4SA approach.
+
+
+                    </p>
+                </details>
+                <details>
+                    <summary>Thread B
+
+                    </summary>
+                    <p>
+                    <h3>Example 1</h3>
+                    <p>
+                        Story for Alignment: Using the concepts we already have, let's create a toy story to explain why
+                        the
+                        project is being built.
+                    </p>
+                    <h3>Example 2</h3>
+                    <p>
+                        Scope of Agility: Because there was no visual representation of the product, we failed to
+                        account
+                        for four key factors: user value, functionality, UX flow,
+                    </p>
+                    <h3>Example 3 </h3>
+                    <p>
+                        Specific Accountable:Everything is clear in the idea, concept, and flow diagram. The product is
+                        ready for use. But how?
+                    </p>
+                    <h3>Example 4</h3>
+                    <p>
+                        Specific Accountable:Everything is clear in the idea, concept, and flow diagram. The product is
+                        ready for use. But how? Wh
+                    </p>
+
+
+                    </p>
+                </details>
+                <details>
+                    <summary>Conclusion
+
+                    </summary>
+                    <p>
+                        The product is now ready to launch; we have a strategy-based plan from an innovative concept
+                    </p>
+                </details>
+            </div>
+        </div>
+
+    </div>
+    <div>
+
+        <div class="notification-box">
+            <div class="notification-content">
+                <span class="notification-close">&times;</span>
+                <h3>Notification Title</h3>
+                <p>Notification message goes here.</p>
+            </div>
+        </div>
+
+        <button class="vertical-btn" onclick="showNotification()">N <br>
+            o<br>t<br>i<br>c</button>
+    </div>
+    <div>
+
+        <div class="notification-box1">
+            <div class="notification-content1">
+                <span class="notification-close1">&times;</span>
+                <h3>><b>
+
+                        Journey Board
+                    </b>
+                </h3>
+                <ul>
+                    <li>Technical Project Management</li>
+                    <li>Threadbuild</li>
+                    <li>Structure you pointers</li>
+                    <li>4SA Method</li>
+                </ul>
+            </div>
+        </div> 
+    
+
+
+        <button class="vertical-btn1"  onclick="showNotification1()">   +</button>
+    </div> 
+
+
+
+    <script src="java.js"></script>
+</body>
+
+</html>
